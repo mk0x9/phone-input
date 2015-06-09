@@ -1,0 +1,9 @@
+[submodule "libphonenumber"]
+	path = libphonenumber
+	url = https://github.com/googlei18n/libphonenumber.git
+[submodule "closure-compiler"]
+	path = closure-compiler
+	url = https://github.com/google/closure-compiler.git
+[submodule "closure-library"]
+	path = closure-library
+	url = https://github.com/google/closure-library.git

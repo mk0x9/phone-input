@@ -1,0 +1,20 @@
+{
+  "name": "4talk-markup",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node_modules/.bin/gulp",
+    "test": "make test"
+  },
+  "devDependencies": {
+    "traceur": "0.0.86",
+    "uglify-js": "git+ssh://git@github.com:mishoo/UglifyJS2.git#ae07714927f44790e40628cde4fa57bc2c4cb076",
+    "gulp": "3.8.11",
+    "gulp-shell": "0.3.0",
+    "run-sequence": "1.0.2",
+    "mocha": "2.2.0",
+    "mocha-phantomjs": "3.5.3",
+    "should": "5.1.0",
+    "sinon": "1.13.0",
+    "jsdoc": "3.3.0-beta2"
+  }
+}
